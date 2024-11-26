@@ -1,0 +1,38 @@
+# Bugs Encontrados
+
+## Bugs encontrados com usuário “error_user”
+
+1. Fluxo do ícone de filtro não está funcionando.
+2. Fluxo de adicionar no carrinho só está aceitando no máximo 2 itens.
+3. Fluxo de checkout não está funcionando corretamente.
+4. Seta de dropdown (menu suspenso) no ícone do filtro não está funcionando.
+
+---
+
+## Bugs encontrados com usuário “problem_user”
+
+1. Fluxo do ícone filtro não está funcionando.
+2. Imagens referentes aos produtos estão divergentes.
+3. Fluxo do checkout não está funcionando corretamente.
+4. Opção de “Remove” do produto na tela inicial não está funcionando.
+5. Fluxo de adicionar no carrinho só está aceitando no máximo 2 itens.
+6. Seta de dropdown (menu suspenso) no ícone do filtro não está funcionando.
+
+---
+
+## Bugs encontrados com as credenciais válidas
+
+1. Ícone filtro não está funcionando o filtro de A a Z.
+2. Seta de dropdown (menu suspenso) no ícone do filtro não está funcionando.
+3. Não é possível adicionar mais de uma unidade de cada produto no carrinho.
+
+---
+
+## Bugs encontrados com usuário “visual_user”
+
+1. Imagem da mochila está incorreta.
+2. Ícone do carrinho está na posição errada.
+3. Ícone de hambúrguer (ícone de navegação) está desalinhado.
+4. Layout do carrinho não está alinhado de forma correta (botão checkout, ícone do carrinho e ícone de navegação).
+5. Fluxo do ícone filtro não está funcionando da forma correta.
+6. Seta de dropdown (menu suspenso) no ícone do filtro não está funcionando.
