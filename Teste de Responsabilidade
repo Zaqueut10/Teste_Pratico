@@ -1,0 +1,10 @@
+## 4. Testes de Responsividade
+
+### **4.1 Dispositivos**
+
+| ID   | Caso de Teste                               | Passos                                                                                  | Resultado Esperado                                             |
+|------|--------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| TC13 | Testar em dispositivo móvel (320px)        | 1. Acesse a plataforma via dispositivo móvel                                             | Layout ajustado corretamente para a tela menor               |
+| TC14 | Testar em tablet (768px)                   | 1. Acesse a plataforma via tablet                                                      | Layout ajustado corretamente para o tamanho intermediário    |
+
+---
